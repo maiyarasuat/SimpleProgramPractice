@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class RemoveNumberInArray {
 	
-	
+	//
 	public static void main(String[] args) {
 		
 		
